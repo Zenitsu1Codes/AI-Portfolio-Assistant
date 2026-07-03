@@ -230,5 +230,4 @@ This project demonstrates:
 
 AI • Python • Machine Learning • Agentic AI • Automation
 
-If you found this project helpful, consider giving it a ⭐ on GitHub.
-:::
+If you found this project helpful, consider giving it a ⭐ on GitHub
