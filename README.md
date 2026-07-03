@@ -232,7 +232,3 @@ AI • Python • Machine Learning • Agentic AI • Automation
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
 :::
-
----
-
-This README presents the project professionally for GitHub and emphasizes the AI engineering concepts it demonstrates, including **LLM function calling**, **context-aware responses**, **resume parsing**, and **lead automation**.
