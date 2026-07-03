@@ -1,0 +1,8 @@
+groq
+gradio
+python-dotenv
+requests
+pypdf
+ipython
+jupyter
+notebook
